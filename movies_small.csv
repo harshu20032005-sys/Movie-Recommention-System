@@ -1,0 +1,41 @@
+movie_id,title,genres,keywords,overview
+1,Interstellar,Sci-Fi Drama Adventure,space astronaut black hole time travel,A team of explorers travels beyond this galaxy to discover whether mankind has a future among the stars.
+2,Inception,Sci-Fi Action Thriller,dream mind heist subconscious,A skilled thief enters people's dreams to steal secrets and is given a difficult task involving an idea.
+3,The Martian,Sci-Fi Adventure Drama,mars astronaut survival science,An astronaut stranded on Mars uses science and determination to survive until a rescue mission can reach him.
+4,Gravity,Sci-Fi Thriller Drama,space astronaut survival,Two astronauts struggle to survive after an accident leaves them drifting alone in space.
+5,Arrival,Sci-Fi Drama Mystery,aliens language communication time,A linguist works with the military to communicate with mysterious visitors who arrive on Earth.
+6,The Prestige,Drama Mystery Thriller,magicians rivalry illusion obsession,"Two rival magicians become obsessed with creating the ultimate illusion, risking everything in the process."
+7,Shutter Island,Mystery Thriller Drama,detective island investigation psychological,A US marshal investigates the disappearance of a patient from a remote psychiatric facility.
+8,Gone Girl,Mystery Thriller Drama,crime investigation marriage deception,A man's wife disappears and the investigation reveals secrets about their marriage.
+9,Se7en,Crime Mystery Thriller,detective serial killer investigation,Two detectives hunt a serial killer whose crimes are inspired by the seven deadly sins.
+10,The Dark Knight,Action Crime Drama,superhero batman joker city,Batman faces a criminal mastermind who spreads chaos throughout Gotham City.
+11,Batman Begins,Action Crime Drama,superhero origin batman training,A young Bruce Wayne trains to fight crime and becomes the masked hero of Gotham.
+12,The Avengers,Action Sci-Fi Adventure,superheroes team alien invasion,Earth's heroes unite to stop an alien invasion threatening the planet.
+13,Iron Man,Action Sci-Fi Adventure,superhero technology armor invention,An engineer builds a powerful suit of armor and becomes a hero after a life-changing event.
+14,Black Panther,Action Adventure Sci-Fi,superhero kingdom technology africa,A new king must protect his technologically advanced nation from a powerful challenger.
+15,Guardians of the Galaxy,Sci-Fi Action Comedy,space team aliens adventure,A group of unlikely heroes joins forces to protect the galaxy from a dangerous threat.
+16,The Shawshank Redemption,Drama Crime,prison friendship hope escape,A banker sentenced to prison forms a friendship and quietly plans for a better future.
+17,Forrest Gump,Drama Romance,life friendship history journey,A kind-hearted man experiences major moments in history while searching for love and purpose.
+18,The Pursuit of Happyness,Drama Biography,struggle father son success,A struggling salesman works hard to build a better life for himself and his young son.
+19,The Green Mile,Drama Fantasy Crime,prison supernatural kindness,A prison guard encounters a gentle inmate with a mysterious gift that changes his life.
+20,Titanic,Romance Drama,ship ocean disaster love,Two passengers from different backgrounds fall in love aboard a famous ocean liner.
+21,The Notebook,Romance Drama,love relationship memory,A young couple face family pressure and life challenges while holding on to their love.
+22,La La Land,Romance Comedy Drama,music jazz dreams relationship,A musician and an aspiring actor pursue their dreams while building a relationship in Los Angeles.
+23,About Time,Romance Fantasy Drama,time travel family love,A young man discovers he can travel through time and tries to improve his relationships.
+24,The Conjuring,Horror Mystery Thriller,haunted house paranormal ghost,Paranormal investigators help a family experiencing terrifying events in an old farmhouse.
+25,A Quiet Place,Horror Sci-Fi Thriller,monsters silence survival family,A family must live in silence to avoid creatures that hunt by sound.
+26,Get Out,Horror Mystery Thriller,psychological mystery family,A young man visits his girlfriend's family estate and uncovers a disturbing secret.
+27,Coco,Animation Family Fantasy,music family memory adventure,A young musician enters the Land of the Dead and discovers the importance of family.
+28,Toy Story,Animation Family Comedy,toys friendship adventure,A group of toys comes to life when humans are not around and learns about friendship.
+29,Finding Nemo,Animation Family Adventure,ocean fish journey family,A cautious clownfish crosses the ocean to find his missing son.
+30,Inside Out,Animation Family Drama,emotions mind childhood,A young girl's emotions navigate changes in her life after her family moves.
+31,Spider-Man: Into the Spider-Verse,Animation Action Adventure,superhero spider multiverse,A teenager becomes Spider-Man and meets heroes from other dimensions.
+32,The Lion King,Animation Adventure Drama,animals kingdom family,A young lion must accept his responsibility and reclaim his place as king.
+33,Jurassic Park,Adventure Sci-Fi Thriller,dinosaurs island science survival,"Scientists create a theme park filled with dinosaurs, but an experiment goes dangerously wrong."
+34,Indiana Jones and the Raiders of the Lost Ark,Adventure Action,archaeology treasure adventure,An archaeologist races to find a powerful ancient artifact before dangerous enemies.
+35,Harry Potter and the Sorcerer's Stone,Fantasy Adventure Family,magic wizard school friendship,A young boy discovers he is a wizard and begins his education at a magical school.
+36,The Lord of the Rings: The Fellowship of the Ring,Fantasy Adventure Drama,magic quest friendship journey,A group of companions begins a dangerous journey to destroy a powerful ring.
+37,The Grand Budapest Hotel,Comedy Drama Adventure,hotel mystery friendship,A hotel concierge and his lobby boy become involved in a mystery surrounding a valuable painting.
+38,Home Alone,Comedy Family,holiday family prank burglars,A young boy is accidentally left home alone and defends his house from two burglars.
+39,Jumanji: Welcome to the Jungle,Adventure Comedy Fantasy,game jungle teamwork,Four teenagers enter a video game world and must work together to escape.
+40,The Social Network,Drama Biography,technology startup business friendship,A university student creates a social networking platform and faces conflicts with former friends.
